@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: new AppBar(
-        title: Text('Calculator'),
+        title: Text('Simple Calculator'),
       ),
       body: Container(
         child: Column(
